@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunmiii
 - 👀 I’m interested in Web Development and all its characteristics
-- 🌱 I’m currently learning basics of web development (HTML, CSS & JAVASCRIPT), 
+- 🌱 I’m currently learning basics of web development (HTML, CSS, SCSS & JAVASCRIPT), 
     with the goal ending as a FrontEnd Engineer
 - 💞️ I’m looking to collaborate on projects related to React and Front End Development.
 - 📫 How to reach me @iam_joast on the bird app
